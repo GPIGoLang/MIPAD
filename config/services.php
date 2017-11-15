@@ -21,8 +21,8 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
     'talentbridge' => [
-        'cid'           => '1',
-        'secret_key'    =>'ebd652e7987422c4f1a606db2a7c5e6a29b573a7',
-        'url'           => 'http://www.my-gpi.biz/mygpi/iIntegrationAction?'
+        'cid'           => '',
+        'secret_key'    =>'',
+        'url'           => ''
     ]
 ];
